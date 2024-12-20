@@ -53,3 +53,7 @@ https://github.com/user-attachments/assets/0c4a2ef9-28d4-4924-977f-9a096a38ce60
     Future Scope:
         Autonomous target searching.
         Real-time position feedback and adaptive task execution.
+
+
+![Untitled](https://github.com/user-attachments/assets/d753494b-7b49-441c-9e1f-91a8df350620)
+
